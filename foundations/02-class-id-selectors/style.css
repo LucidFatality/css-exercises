@@ -1,0 +1,20 @@
+.red {
+    background-color: #f72f5d;
+    font-family: Verdana, "DejavVu Sans", sans-serif;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#id1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#id2 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #72f79e;
+}
+
